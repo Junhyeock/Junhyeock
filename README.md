@@ -8,7 +8,6 @@
 ####  "I'm currently learning to use Git in the VS Code terminal and Ubuntu inside a Linux system."
 ####  "I'm aiming to learn Python thoroughly from the ground up."
 
-###### ~~"한국어로 번역 돌리면 이상하게 나와서..."~~
 ###### ~~"TMI 보라색을 좋아합니다"~~
 
 ## "I'm learning it while using it"
